@@ -1,0 +1,14 @@
+﻿@using MVCDemo4_Advance.Service
+@using System.Collections
+
+@model MVCDemo4_Advance.Service.IEmployeeService
+
+@inject IEmployee em
+
+<ol>
+	@foreach (var a in em.Employees())
+	{
+		<li>• Name : @a.Name •Email : @a.Email •Phone : @a.Phone •Address :@a.Address •DepartmentId : @a.DepartmentId •DeptName : @a.Department.Name</li>
+		
+	}
+</ol>
