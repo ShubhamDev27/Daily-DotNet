@@ -1,7 +1,0 @@
-D:\Practice\callculator\callculator\bin\Debug\callculator.exe.config
-D:\Practice\callculator\callculator\bin\Debug\callculator.exe
-D:\Practice\callculator\callculator\bin\Debug\callculator.pdb
-D:\Practice\callculator\callculator\obj\Debug\callculator.csproj.AssemblyReference.cache
-D:\Practice\callculator\callculator\obj\Debug\callculator.csproj.CoreCompileInputs.cache
-D:\Practice\callculator\callculator\obj\Debug\callculator.exe
-D:\Practice\callculator\callculator\obj\Debug\callculator.pdb
