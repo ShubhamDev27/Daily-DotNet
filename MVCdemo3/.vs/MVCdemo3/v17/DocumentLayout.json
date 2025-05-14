@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice\\MVCdemo3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\service\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\service\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\views\\shared\\not found.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\views\\shared\\not found.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|d:\\practice\\mvcdemo3\\mvcdemo3\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2147F068-1660-4DF8-9123-ADBBDDB05A3C}|MVCdemo3\\MVCdemo3.csproj|solutionrelative:mvcdemo3\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo3\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "MVCdemo3\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T08:05:42.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo3\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "MVCdemo3\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T07:48:35.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Not Found.cshtml",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Shared\\Not Found.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo3\\Views\\Shared\\Not Found.cshtml",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Shared\\Not Found.cshtml",
+              "RelativeToolTip": "MVCdemo3\\Views\\Shared\\Not Found.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T06:25:57.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCdemo3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T06:15:07.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo3\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MVCdemo3\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T06:13:05.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "MVCdemo3\\Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "MVCdemo3\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:07:29.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVCdemo3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVCdemo3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T06:06:29.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Program.cs",
+              "RelativeDocumentMoniker": "MVCdemo3\\Program.cs",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Program.cs",
+              "RelativeToolTip": "MVCdemo3\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:36:58.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo3\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MVCdemo3\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T14:30:45.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo3\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "MVCdemo3\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T14:20:18.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCdemo3\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "MVCdemo3\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T14:06:52.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVCdemo3\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVCdemo3\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T13:10:22.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCdemo3\\appsettings.json",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\appsettings.json",
+              "RelativeToolTip": "MVCdemo3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T13:06:59.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Service\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "MVCdemo3\\Service\\IEmployeeService.cs",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Service\\IEmployeeService.cs",
+              "RelativeToolTip": "MVCdemo3\\Service\\IEmployeeService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:55:56.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Service\\IEmployee.cs",
+              "RelativeDocumentMoniker": "MVCdemo3\\Service\\IEmployee.cs",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Service\\IEmployee.cs",
+              "RelativeToolTip": "MVCdemo3\\Service\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:52:16.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Repository\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVCdemo3\\Repository\\AppDbContext.cs",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Repository\\AppDbContext.cs",
+              "RelativeToolTip": "MVCdemo3\\Repository\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:46:58.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVCdemo3\\Models\\Employee.cs",
+              "ToolTip": "D:\\Practice\\MVCdemo3\\MVCdemo3\\Models\\Employee.cs",
+              "RelativeToolTip": "MVCdemo3\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T12:41:01.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
