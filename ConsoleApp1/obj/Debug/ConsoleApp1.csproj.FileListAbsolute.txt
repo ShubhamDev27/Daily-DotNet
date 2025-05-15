@@ -1,0 +1,10 @@
+D:\Practice\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Practice\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Practice\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Practice\ConsoleApp1\ConsoleApp1\bin\Debug\MyMathLib1.dll
+D:\Practice\ConsoleApp1\ConsoleApp1\bin\Debug\MyMathLib1.pdb
+D:\Practice\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Practice\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Practice\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+D:\Practice\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Practice\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
