@@ -15,15 +15,17 @@ namespace MyMathLib1
         }
         public void display()
         {
-            Console.WriteLine($"{ x},{ y}");
+            Console.WriteLine($"{x},{y}");
         }
     }
     class Myclass
     {
-        public void Main(string[] args)
+        public static void Main(string[] args)
         {
-            demo2 d1 = new demo2();
+            demo2 demo = new demo2(); 
+            demo2 d1 = new demo2(30,20);
             d1.display();
+            demo.display();
 
         }
 
