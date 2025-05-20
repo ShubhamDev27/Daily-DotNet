@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice\\MVCDemo5_Advance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\service\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\service\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\mvcdemo5_advance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\mvcdemo5_advance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|d:\\practice\\mvcdemo5_advance\\mvcdemo5_advance\\migrations\\20250424112937_initialcreatee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D5815E6-54C2-4F3F-9C16-9C621409619F}|MVCDemo5_Advance\\MVCDemo5_Advance.csproj|solutionrelative:mvcdemo5_advance\\migrations\\20250424112937_initialcreatee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 122,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "MVCDemo5_Advance\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T13:46:26.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCDemo5_Advance\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:44:05.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "MVCDemo5_Advance\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T12:54:13.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "MVCDemo5_Advance\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T12:30:49.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "MVCDemo5_Advance\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T12:12:50.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MVCDemo5_Advance\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADUAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T11:41:05.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250424112937_initialcreatee.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Migrations\\20250424112937_initialcreatee.cs",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Migrations\\20250424112937_initialcreatee.cs",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Migrations\\20250424112937_initialcreatee.cs",
+              "RelativeToolTip": "MVCDemo5_Advance\\Migrations\\20250424112937_initialcreatee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:29:38.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\appsettings.json",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\appsettings.json",
+              "RelativeToolTip": "MVCDemo5_Advance\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T11:11:47.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Program.cs",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Program.cs",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Program.cs",
+              "RelativeToolTip": "MVCDemo5_Advance\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:02:13.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MVCDemo5_Advance\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:59:45.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Service\\EmployeeService.cs",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "MVCDemo5_Advance\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:53:00.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Service\\IEmployee.cs",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Service\\IEmployee.cs",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Service\\IEmployee.cs",
+              "RelativeToolTip": "MVCDemo5_Advance\\Service\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:52:38.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Repository\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Repository\\AppDbContext.cs",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Repository\\AppDbContext.cs",
+              "RelativeToolTip": "MVCDemo5_Advance\\Repository\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:48:57.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MVCDemo5_Advance.csproj",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\MVCDemo5_Advance.csproj",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\MVCDemo5_Advance.csproj",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\MVCDemo5_Advance.csproj",
+              "RelativeToolTip": "MVCDemo5_Advance\\MVCDemo5_Advance.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T10:48:12.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Models\\Employee.cs",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Models\\Employee.cs",
+              "RelativeToolTip": "MVCDemo5_Advance\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:48:05.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MVCDemo5_Advance\\Models\\Department.cs",
+              "ToolTip": "D:\\Practice\\MVCDemo5_Advance\\MVCDemo5_Advance\\Models\\Department.cs",
+              "RelativeToolTip": "MVCDemo5_Advance\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:47:55.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
