@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "nMzAHXY3jyKuK+lN4lhRZ5h2zzs45h300ac4p1oi0GA=",
+  "Source": "MiniProject",
+  "BasePath": "_content/MiniProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MiniProject\\wwwroot",
+      "Source": "MiniProject",
+      "ContentRoot": "D:\\Practice\\MiniProject\\MiniProject\\wwwroot\\",
+      "BasePath": "_content/MiniProject",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
