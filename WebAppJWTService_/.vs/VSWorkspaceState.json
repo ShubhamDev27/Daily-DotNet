@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAppJWTService",
+    "\\WebAppJWTService\\WebAppJWTService",
+    "\\WebAppJWTService\\WebAppJWTService\\Controllers",
+    "\\WebAppJWTService\\WebAppJWTService\\Models",
+    "\\WebAppJWTService\\WebAppJWTService\\obj",
+    "\\WebAppJWTService\\WebAppJWTService\\Properties"
+  ],
+  "SelectedNode": "\\WebAppJWTService\\WebAppJWTService\\Controllers\\TokenController.cs",
+  "PreviewInSolutionExplorer": false
+}
