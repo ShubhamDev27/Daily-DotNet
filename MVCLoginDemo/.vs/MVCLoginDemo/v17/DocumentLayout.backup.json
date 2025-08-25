@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Practice\\MVCLoginDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3988EB8-883B-4722-996F-E9BB4FBE9E97}|MVCLoginDemo\\MVCLoginDemo.csproj|d:\\practice\\mvclogindemo\\mvclogindemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3988EB8-883B-4722-996F-E9BB4FBE9E97}|MVCLoginDemo\\MVCLoginDemo.csproj|solutionrelative:mvclogindemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3988EB8-883B-4722-996F-E9BB4FBE9E97}|MVCLoginDemo\\MVCLoginDemo.csproj|d:\\practice\\mvclogindemo\\mvclogindemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3988EB8-883B-4722-996F-E9BB4FBE9E97}|MVCLoginDemo\\MVCLoginDemo.csproj|solutionrelative:mvclogindemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3988EB8-883B-4722-996F-E9BB4FBE9E97}|MVCLoginDemo\\MVCLoginDemo.csproj|d:\\practice\\mvclogindemo\\mvclogindemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3988EB8-883B-4722-996F-E9BB4FBE9E97}|MVCLoginDemo\\MVCLoginDemo.csproj|solutionrelative:mvclogindemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 152,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Practice\\MVCLoginDemo\\MVCLoginDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCLoginDemo\\appsettings.json",
+              "ToolTip": "D:\\Practice\\MVCLoginDemo\\MVCLoginDemo\\appsettings.json",
+              "RelativeToolTip": "MVCLoginDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T07:24:04.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCLoginDemo\\MVCLoginDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MVCLoginDemo\\Program.cs",
+              "ToolTip": "D:\\Practice\\MVCLoginDemo\\MVCLoginDemo\\Program.cs",
+              "RelativeToolTip": "MVCLoginDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T07:10:15.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Practice\\MVCLoginDemo\\MVCLoginDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCLoginDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Practice\\MVCLoginDemo\\MVCLoginDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCLoginDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T07:09:28.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
